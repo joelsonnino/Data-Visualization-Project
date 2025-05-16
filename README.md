@@ -1,5 +1,4 @@
 # Women and Global Divides: A Visual Exploration of Gender, Education & Inequality
-# Data-Visualization-Project
 
 ## Overview
 
