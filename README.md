@@ -1,6 +1,6 @@
 # Data-Visualization-Project
 
-# Project: Visualizing Global Development Dynamics
+# Women and Global Divides: A Visual Exploration of Gender, Education & Inequality
 
 ## Overview
 
